@@ -6,13 +6,14 @@ module.exports = {
     "mysql": {
         "host": "sql6.freesqldatabase.com",
         "port": "3306",
-        "user": "sql6682199",
-        "password": "NFbD64wiuE",
-        "database": "sql6682199",
+        "user": "sql6696723",
+        "password": "tsmP7NHUFm",
+        "database": "sql6696723",
         "connectionLimit": 1
-        
     }
 }
+
+
 
 
 // Host: sql6.freesqldatabase.com
